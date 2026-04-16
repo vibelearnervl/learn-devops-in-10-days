@@ -1,0 +1,10 @@
+{
+  "slug": "devops",
+  "title": "Learn DevOps in 10 Days",
+  "tagline": "Docker, Kubernetes, CI/CD and observability — the concepts engineers actually get asked.",
+  "difficulty": "intermediate",
+  "total_minutes": 600,
+  "quiz_categories": ["Docker", "Kubernetes", "CI/CD", "Microservices"],
+  "lms_url": "https://vibelearner.com/tracks/devops",
+  "pedagogy": "concept-first, AI-for-code"
+}
